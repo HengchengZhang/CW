@@ -1,0 +1,87 @@
+{
+    "booking_id": "5874193562",
+    "granny_flat_id": "735982",
+    "granny_flat_name": "Cozy Retreat",
+    "granny_flat_type": "Garden Studio",
+    "granny_flat_capacity": 2,
+    "granny_flat_location": {
+        "street_address": "57 Johnson Street",
+        "suburb": "Sydney",
+        "state": "NSW",
+        "postcode": "2000",
+        "country": "Australia"
+    },
+    "check_in_date": "2024-06-18",
+    "check_out_date": "2024-06-21",
+    "base_price": 320.75,
+    "service_fee": 45.25,
+    "cleaning_fee": 25.50,
+    "gst_rate": 0.1,
+    "total_price": 0,
+    "commission_fee": 0,
+    "commission_gst_amount": 0,
+    "owner_country": "Australia",
+    "owner": {
+        "owner_id": "5128402937",
+        "abn": "12345678901",
+        "tax_id_number": "",
+        "tax_id_number_country": "Australia",
+        "ato_reference_number": "",
+        "iban": "",
+        "swift_code": "",
+        "owner_date_of_birth": "1980-01-01",
+        "owner_phone_number": "+61420315242",
+        "owner_email": john.smith@example.com,
+        "owner_name": "John Smith",
+        "owner_rating": 4.5,
+        "owner_address": {
+            "street_address": "25 Main Street",
+            "suburb": "Melbourne",
+            "state": "VIC",
+            "postcode": "3000",
+            "country": "Australia"
+        },
+        "owner_bank_details": {
+            "account_name": "John Smith",
+            "bsb": "062001",
+            "account_number": "12345678",
+            "bank_name": "Commonwealth Bank",
+            "bank_state": "VIC"
+        },
+        "paypal_account": ""
+    },
+    "granny_flat_description": "Quiet and secluded studio perfect for a weekend getaway.",
+    "renter_name": "Emma Brown",
+    "renter_phone_number": "+61420315242",
+    "renter_email": emma.brown@example.com,
+    "customer_id": "5482196370",
+    "booking_status": "Completed",
+    "refund": {
+        "amount": 0,
+        "refund_date": "",
+        "reason": ""
+    },
+    "payments": [
+        {
+            "payment_id": "7150498362",
+            "payment_method": "PayPal",
+            "amount": 391.50,
+            "payment_date": "2024-06-21T08:32:45Z"
+        },
+        {
+            "payment_id": "9268137504",
+            "payment_method": "Credit Card",
+            "amount": 391.50,
+            "payment_date": "2024-06-21T08:32:45Z"
+        }
+    ],
+    "caravan_minimum_hire_time": 2,
+    "drivers_licence_requirements": "Standard licence",
+    "transmission_type": "Automatic",
+    "caravan_dimensions": {
+        "length": 6.73,
+        "width": 2.25,
+        "height": 2.65
+    },
+    "off_road_allowed": "No"
+}
